@@ -1,0 +1,7 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks., 10 Oct 2019, 25 Oct 2019, No 
+Selah, read algae, Use the microscope to count algae in water samples,31 Dec 2024,31 Dec 2024, No
+Phumi, filter samples, Use Vacuum manifold to filter water samples,04 Dec 2024,04 Dec 2024, No
+Phelo, perfom toxicity test on daphnia pulex, Use D magna kit to perfom monthly toxicity test on final effluent samples,27 Nov 2024,07 Dec 2024, No
+Shela, pack boxes , Use crane to pack all the boxes in the stores, 28 Nov 2024, 23 Nov 2024, No
+Nonto, Grocery shopping., Drive to the Checkers and purchase groceries., 03 Dec 2024, 05 Dec 2024, No
